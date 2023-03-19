@@ -29,3 +29,11 @@ Input (with adversarial noise):
 Output (removing adversarial noise, 2.13 seconds on my laptop CPU):
 
 ![p](output.png)
+
+# Implementations
+
+Thank the community for making more implementations!
+
+[HuggingFace](https://huggingface.co/spaces/p1atdev/AdverseCleaner)
+
+[Automatic1111's Webui Plugin](https://github.com/gogodr/AdverseCleanerExtension)
