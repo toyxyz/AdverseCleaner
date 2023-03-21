@@ -36,4 +36,6 @@ Thank the community for making more implementations!
 
 [HuggingFace Space](https://huggingface.co/spaces/p1atdev/AdverseCleaner)
 
-[Automatic1111's Webui Plugin](https://github.com/gogodr/AdverseCleanerExtension)
+[Automatic1111's Webui Plugin (with Script)](https://github.com/gogodr/AdverseCleanerExtension)
+
+[Automatic1111's Webui Plugin (with Tab)](https://github.com/p1atdev/stable-diffusion-webui-adverse-cleaner-tab)
