@@ -10,6 +10,10 @@ In frequency domain, anisotropic methods are usually more “killing”.
 
 No GPU is needed. Each 1024px image only need less than 3 seconds on my laptop CPU.
 
+# Update
+
+2023/03/28 – Seems that using guided filter is not safe enough because the guidance already has adversarial noise in it; the guided filter may bring the adversarial noise back. Perhaps a ‘safer’ idea is to use some other things to process the initial anisotropic filtered image. I will try some random ideas when I have free time but it seems that I do not have so much free time recently.
+
 # Run
 
     conda env create -f environment.yaml
