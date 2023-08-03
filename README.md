@@ -1,3 +1,5 @@
+I modified the script slightly to process multiple images in an input folder and save them to an out folder.
+---------------------------------------------------------------------------------
 # AdverseCleaner
 
 The shortest ever code (**16 lines of Python codes**) to remove some [adversarial noise](https://arxiv.org/abs/1412.6572) from images.
