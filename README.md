@@ -1,4 +1,6 @@
 I modified the script slightly to process multiple images in an input folder and save them to an out folder.
+![image](https://github.com/toyxyz/AdverseCleaner/assets/8006000/a948e71d-b7a0-4dbc-a0b2-9c2703d70b3a)
+
 ---------------------------------------------------------------------------------
 # AdverseCleaner
 
